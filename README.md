@@ -1,8 +1,8 @@
 # Shopping_List_App
 
-Wykorzystano w projekcie bazę danych Firebase Realtime Database.
+## Wykorzystano w projekcie bazę danych Firebase Realtime Database.
 
-Instrukcja obsługi:
+### Instrukcja obsługi:
 
 Po uruchomieniu aplikacji MyApp widoczne jest główne okno do nawigacji. Z poziomu tego widoku możliwe jest dodanie nowego produktu jak również przejrzenie tych istniejących. 
 
