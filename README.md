@@ -1,6 +1,6 @@
 # Shopping_List_App
 
-## Wykorzystano w projekcie bazę danych Firebase Realtime Database.
+### Wykorzystano w projekcie bazę danych Firebase Realtime Database.
 
 ### Instrukcja obsługi:
 
